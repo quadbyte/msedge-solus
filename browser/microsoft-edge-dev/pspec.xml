@@ -11,7 +11,7 @@
         <Summary>The web browser from Microsoft</Summary>
         <Description>Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier</Description>
         <License>Proprietary</License>
-        <Archive sha1sum="048ffe19582eebdceae3e7697f978039836d974e" type="binary">https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_89.0.731.0-1_amd64.deb</Archive>
+        <Archive sha1sum="048ffe19582eebdceae3e7697f978039836d974e" type="binary">https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_91.0.831.1-1_amd64.deb</Archive>
         <BuildDependencies>
             <Dependency>libxscrnsaver</Dependency>
             <Dependency>gconf</Dependency>
