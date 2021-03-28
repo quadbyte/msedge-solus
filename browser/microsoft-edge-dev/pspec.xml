@@ -2,7 +2,7 @@
 <!DOCTYPE PISI SYSTEM "https://getsol.us/standard/pisi-spec.dtd">
 <PISI>
     <Source>
-        <Name>Microsoft Edge (dev)</Name>
+        <Name>Microsoft Edge Dev</Name>
         <Homepage>https://www.microsoftedgeinsider.com/en-us/download</Homepage>
         <Packager>
             <Name>Gavin Zhao</Name>
